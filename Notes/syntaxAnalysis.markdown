@@ -1024,7 +1024,7 @@ Lets take the FIRST() for this grammar :
 
 > FIRST(A) = \{b,c,&lambda;\}
 >
-> FIRST(S) =  FIRST(aAcb)&cup;FIRST(Abc) = \{a,\} &cup \{b,c\}
+> FIRST(S) =  FIRST(aAcb)&cup;FIRST(Abc) = \{a,\} &cup; \{b,c\}
 >
 > = \{a,b,c\}
 >
